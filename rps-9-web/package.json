@@ -2,6 +2,7 @@
   "name": "@reach-sh/rps-9-web",
   "type": "module",
   "dependencies": {
+    "@reach-sh/stdlib": "^0.1.11-rc.7"
   },
   "author": "reach.sh",
   "license": "Apache-2.0",
